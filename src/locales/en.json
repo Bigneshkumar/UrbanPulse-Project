@@ -1,0 +1,31 @@
+{
+  "brand": "UrbanPulse",
+  "tagline": "Connecting the city, empowering the citizen.",
+  "cta_login": "Login",
+  "hero_title": "Unified civic services and citizen engagement",
+  "hero_subtitle": "Real-time waste analytics, grievance reporting, and a unified dashboard.",
+  "get_started": "Get Started",
+  "login_title": "Sign in to UrbanPulse",
+  "tab_citizen": "Citizen",
+  "tab_officer": "Officer",
+  "email": "Email",
+  "password": "Password",
+  "sign_in": "Sign In",
+  "sign_up": "Create account",
+  "forgot": "Forgot password?",
+  "lang": "Language",
+  "feature_cards": {
+    "analytics": {
+      "title": "Real-time Analytics",
+      "desc": "Live fill-level insights for smarter operations."
+    },
+    "reports": {
+      "title": "Citizen Reports",
+      "desc": "One-tap local issue reporting with GPS."
+    },
+    "dashboard": {
+      "title": "Unified Dashboard",
+      "desc": "One place for bins, grievances, and KPIs."
+    }
+  }
+}
